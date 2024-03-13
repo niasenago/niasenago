@@ -5,9 +5,9 @@
 
 <div align="center">
 
- 🔭 I’m currently working on [InfoSync Collaboration App](https://github.com/niasenago/PSI-project)
+ 🔭 I’m currently working on Learning Management System
 
- 🌱 I’m currently learning **ASP.NET**
+ 🌱 I’m currently learning **Kotlin**
 
  📫 How to reach me **artiom.hov@gmail.com**
  </div>
